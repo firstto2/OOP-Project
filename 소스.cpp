@@ -113,5 +113,7 @@ int main(void)
 	} while (choice != 5);
 
 
+	cout << "내용 추가" << "\n";
+
 	return 0;
 }
